@@ -1,0 +1,3 @@
+﻿  SortedList.cpp
+c:\users\leonc\google drive\college\senior year\fall semester\data structures ii\week 6\sortedlist\sortedlist\sortedlist.h(107): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SortedList.vcxproj -> C:\Users\leonc\Google Drive\College\Senior Year\Fall Semester\Data Structures II\Week 6\SortedList\Debug\SortedList.exe
